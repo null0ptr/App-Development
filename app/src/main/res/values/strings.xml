@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="name">Nazmus Shakib</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="random_text">Hello, I\'m Nazmus Shakib. I am a student pursuing my bachelor\'s degree in CSE. Currently I am learning developing android apps with kotlin.</string>
+    <string name="nickname_string">Enter your nickname</string>
+    <string name="done_string">Done</string>
 </resources>
